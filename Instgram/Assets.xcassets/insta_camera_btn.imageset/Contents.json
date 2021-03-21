@@ -6,9 +6,17 @@
       "scale" : "1x"
     },
     {
-      "filename" : "insta_camera_btn@2x.png",
       "idiom" : "universal",
       "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "Icon-60@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
     },
     {
       "filename" : "insta_camera_btn@3x.png",

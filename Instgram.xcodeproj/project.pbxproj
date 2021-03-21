@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		89A3B6952607D507001CBA4B /* CommentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89A3B6942607D507001CBA4B /* CommentCell.swift */; };
 		89BCFCC726010A3100E7F040 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89BCFCC626010A3100E7F040 /* LoginViewController.swift */; };
 		89BCFCCC26010A4000E7F040 /* FeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89BCFCCB26010A4000E7F040 /* FeedViewController.swift */; };
 		89BCFCD12601332D00E7F040 /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89BCFCD02601332D00E7F040 /* CameraViewController.swift */; };
@@ -45,6 +46,7 @@
 		2CA19C0C58B74A6F82303C66 /* Pods_Instgram.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Instgram.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		2DC9A642B10675BB2AB4D716 /* Pods-Instgram-InstgramUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Instgram-InstgramUITests.debug.xcconfig"; path = "Target Support Files/Pods-Instgram-InstgramUITests/Pods-Instgram-InstgramUITests.debug.xcconfig"; sourceTree = "<group>"; };
 		5AA38271CD9A52F764A08DCB /* Pods_InstgramTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_InstgramTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		89A3B6942607D507001CBA4B /* CommentCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentCell.swift; sourceTree = "<group>"; };
 		89BCFCC626010A3100E7F040 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		89BCFCCB26010A4000E7F040 /* FeedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedViewController.swift; sourceTree = "<group>"; };
 		89BCFCD02601332D00E7F040 /* CameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
@@ -155,6 +157,7 @@
 				89EF477F25FC745D006BE882 /* Assets.xcassets */,
 				89EF478125FC745D006BE882 /* LaunchScreen.storyboard */,
 				89EF478425FC745D006BE882 /* Info.plist */,
+				89A3B6942607D507001CBA4B /* CommentCell.swift */,
 			);
 			path = Instgram;
 			sourceTree = "<group>";
@@ -421,6 +424,7 @@
 				89BCFCCC26010A4000E7F040 /* FeedViewController.swift in Sources */,
 				89EF477925FC745A006BE882 /* SceneDelegate.swift in Sources */,
 				89BCFCE12601445800E7F040 /* PostCell.swift in Sources */,
+				89A3B6952607D507001CBA4B /* CommentCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
